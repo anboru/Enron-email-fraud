@@ -1,0 +1,6 @@
+References:
+
+1. One way ANOVA. Retrieved from http://www.itl.nist.gov/div898/handbook/ppc/section2/ppc231.htm
+2. How to calculate an ANOVA table. Retrieved from https://stat.ethz.ch/education/semesters/as2010/anova/ANOVA_how_to_do.pdf
+3. How to compare machine learning algorithms. Retrieved from https://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/
+4. Naive Bayes classification. Retrieved from http://www.cs.colostate.edu/~cs545/fall13/dokuwiki/lib/exe/fetch.php?media=wiki%3A13_naive_bayes.pdf
